@@ -1,0 +1,32 @@
+{
+  "name": "jsonml-builder",
+  "version": "0.0.1",
+  "description": "Build JsonML objects on-the-fly",
+  "author": "Shiro Hazuki <hazuki.shiro@gmail.com>",
+  "license": "Unlicense",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "jsonml"
+  ],
+  "engines": {
+    "node": ">=0.10.18",
+    "npm": ">=1.3.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HazukiShiro/node-jsonml-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HazukiShiro/node-jsonml-builder/issues"
+  }
+}
