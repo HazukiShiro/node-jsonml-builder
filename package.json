@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "Build JsonML objects on-the-fly",
   "author": "Shiro Hazuki <hazuki.shiro@gmail.com>",
-  "license": "Unlicense",
+  "licenses": [{
+    "type": "Unlicense",
+    "url": "https://github.com/HazukiShiro/node-jsonml-builder/blob/master/UNLICENSE"
+  }],
   "main": "index.js",
   "directories": {
     "test": "test"
